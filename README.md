@@ -28,7 +28,7 @@ This repository contains a demos showcasing the implementation of the RAG (Retri
 This project is licensed under the [MIT License](MIT.md), granting permission for commercial and non-commercial use with proper attribution.
 
 ## Support
-For any questions or issues, please [open an issue](https://github.com/jonathanscholtes/LangChain-RAG-Pattern-with-React-FastAPI-and-Cosmos-DB-Vector-Store/issues) on GitHub or reach out to the project maintainers.
+For any questions or issues, please [open an issue](https://github.com/jonathanscholtes/LLM-Performance-with-Azure-Cosmos-DB-Semantic-Cache/issues) on GitHub or reach out to the project maintainers.
 
 ## Disclaimer
 This demo application is provided for educational and demonstration purposes only. Use at your own risk.
